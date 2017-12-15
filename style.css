@@ -1,0 +1,20 @@
+.red{
+  background:red;
+}
+.black{
+  background:black;
+}
+div{
+  height:20px;
+  width:20px;
+  float:left;
+}
+#board{
+  width:160px;
+}
+.check{
+  border-radius: 50%;
+	width: 10px;
+	height: 10px;
+  background:green;
+}
